@@ -8,3 +8,5 @@ def count_odds(list1):
     return odds
 
 print(count_odds([2, 4, 6, 8, 10]))
+
+#does this not count evens? line 6 would change to != to count odds
