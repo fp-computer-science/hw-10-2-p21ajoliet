@@ -1,0 +1,8 @@
+Question 1
+Your calculations appear to be incorrect. The second 2 test cases are returning False
+
+Question 4
+This should have simply returned a number, not an entire print statment.
+
+Question 5
+Your calculations appear to be incorrect. The second test case is returning False.
